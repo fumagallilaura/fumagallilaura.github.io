@@ -1,48 +1,79 @@
-import { FaHtml5, FaCss3Alt, FaReact, FaNodeJs, FaDocker, FaPython, FaDatabase, FaLinux } from "react-icons/fa";
-import { DiJavascript1 } from "react-icons/di";
-
+import { FaHtml5, FaCss3Alt, FaReact, FaNodeJs, FaDocker, FaPython, FaDatabase, FaLinux, FaGofore, FaAws, FaAtlassian } from "react-icons/fa";
+import { DiJava, DiJavascript1, DiNetbeans } from "react-icons/di";
 //=====Start Primary Hard Skills=====
 export const primaryHardSkillsData = [
   {
-    icon: <FaHtml5 />,
-    name: "HTML",
+    icon: <FaAws />,
+    name: "AWS",
+  },
+  {
+    icon: <FaAtlassian />,
+    name: "Azure Devops",
   },
   {
     icon: <FaCss3Alt />,
     name: "CSS",
   },
   {
-    icon: <DiJavascript1 />,
-    name: "JavaScript",
-  },
-  {
-    icon: <FaReact />,
-    name: "React JS",
-  },
-  {
-    icon: <FaNodeJs />,
-    name: "NodeJS",
-  },
-  {
-    icon: <FaDatabase />,
-    name: "SQL",
+    icon: <DiNetbeans />,
+    name: "C#",
   },
   {
     icon: <FaDocker />,
     name: "Docker",
   },
   {
-    icon: <FaPython />,
-    name: "Python",
+    icon: <FaGofore />,
+    name: "Golang",
+  },
+  {
+    icon: <FaHtml5 />,
+    name: "HTML",
+  },
+  {
+    icon: <DiJavascript1 />,
+    name: "JavaScript",
+  },
+  {
+    icon: <DiJava />,
+    name: "Java",
   },
   {
     icon: <FaLinux />,
     name: "Linux",
-  }
+  },
+  {
+    icon: <FaNodeJs />,
+    name: "NodeJS",
+  },
+  {
+    icon: <FaReact />,
+    name: "React JS",
+  },
+  {
+    icon: <FaPython />,
+    name: "Python",
+  },
+  {
+    icon: <FaDatabase />,
+    name: "SQL",
+  },
 ];
 
 //=====Start Secondary Hard Skills=====
 export const secondaryHardSkillsData = [
+  {
+    name: "Kafka",
+  },
+  {
+    name: "MicroServices",
+  },
+  {
+    name: "CI / CD",
+  },
+  {
+    name: "Unit Tests",
+  },
   {
     name: "Styled Components",
   },
@@ -87,18 +118,18 @@ export const secondaryHardSkillsData = [
 //=====Start Soft Skills=====
 export const softSkillsData = [
   {
-    name: "Resiliência, tolerância e flexibilidade",
+    name: "Resilience, tolerance and flexibility",
     description:
-      "Aprendi a importância e pude desenvolver essas habilidades atuando em instituições públicas, interagindo e trabalhando com os mais variados perfis de pessoas.",
+      "I learned the importance and was able to develop these skills working in public institutions, interacting and working with the most varied profiles of people.",
   },
   {
-    name: "Inteligência emocional",
+    name: "Emotional intelligence",
     description:
-      "Procuro desenvolver essa habilidade através de leitura, cursos e eventos sobre o tema, por perceber que é uma skill que traz uma maior qualidade de vida para mim, e, por consequência, para as   pessoas ao meu redor.",
+      "I try to develop this skill through reading, courses and events on the subject, realizing that it is a skill that brings a better quality of life for me, and, consequently, for the people around me.",
   },
   {
-    name: "Aprendizado ativo",
+    name: "Knowledge sharing and active learning ",
     description:
-      "Essa é uma habilidade pela qual tenho me dedicado cada vez mais, tanto para me manter atualizada, frente às rápidas mudanças do mundo, quanto para me manter motivada na busca de evolução pessoal e profissional.",
+      "This is a skill to which I have been dedicating myself more and more, both to keep myself up to date, in the face of rapid changes in the world, and to share what I learn, seeking to keep people who want to be developers motivated in the pursuit of personal and professional evolution.",
   },
 ];

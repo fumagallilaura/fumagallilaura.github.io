@@ -1,14 +1,14 @@
-# Portfólio Laura Fumagalli
+# Laura Fumagalli Portfolio
 
-## Link de acesso
+## Access Link
 
-[👉 Portfólio](https://62b4a072d7d4d4024379097c--zippy-panda-26b156.netlify.app/)
+[👉 Portfolio](https://fumagallilaura-github-io.vercel.app/)
 
-## Objetivo
+## Goal
 
-O objetivo desse portfólio é reunir algumas informações sobre mim, como skills e contatos, além dos últimos projetos desenvolvidos.
+The purpose of this portfolio is to gather some information about me, such as skills and contacts, in addition to the latest projects developed.
 
-## Tecnologias e ferramentas utilizadas
+## Technologies and tools used
 
 - Figma;
 - HTML;
@@ -22,8 +22,8 @@ O objetivo desse portfólio é reunir algumas informações sobre mim, como skil
 
 ### Framer Motion
 
-Meu objetivo inicial era que o portfólio tivesse algumas animações. Estudando sobre o assunto descobri a biblioteca Framer Motion, que facilita bastante a forma de fazer animações no React.
+My initial goal was for the portfolio to have some animations. Studying on the subject I discovered the Framer Motion library, which greatly facilitates the way to make animations in React.
 
-## Versão
+## Version
 
-O projeto está na sua versão 1.0 e será continuamente atualizado e aprimorado.
+The project is in its version 2.6 and will be continuously updated and improved.

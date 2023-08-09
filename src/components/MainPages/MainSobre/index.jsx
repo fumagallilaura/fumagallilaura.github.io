@@ -28,7 +28,7 @@ export const MainSobre = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.7, delay: 0.3 }}
         >
-          <h3>Olá :)</h3>
+          <h3>Hello :)</h3>
           <p></p>
         </HelloMessage>
 
@@ -38,24 +38,24 @@ export const MainSobre = () => {
           transition={{ duration: 0.7, delay: 0.4 }}
         >
           <p>
-            Bem-vindo(a) ao meu portfólio. Esse espaço tem o propósito de reunir
-            os últimos projetos que desenvolvi, bem como algumas informações
-            sobre mim.
+            Welcome to my portfolio. This space is intended to bring together
+            the last projects I developed, as well as some information
+            about me.
             <br />
             <br />
-            Tenho como objetivo especializar-me na área de{" "}
-            <strong>desenvolvimento BackEnd</strong>, com conhecimentos FullStack. Para isso venho
-            continuamente me capacitando e aplicando os conhecimentos adquiridos
-            em projetos pessoais e profissionais, utilizando as principais
-            tecnologias e ferramentas da área.
+            I aim to specialize in the area of {" "}
+            <strong>BackEnd development</strong>, with FullStack expertise. For this I come
+            continuously training myself and applying the knowledge acquired
+            in personal and professional projects, using the main
+            technologies and tools in the area.
             <br />
             <br />
-            Disponibilizo no botão abaixo o meu currículo completo, onde pode
-            encontrar minhas experiências e formações profissionais.
+            I put my complete resume available in the button below, where you can
+            find my experiences and professional training.
           </p>
 
-          <a href="https://drive.google.com/file/d/1Prsu82oP4bHSmyK5fna9--3K1EEdXcmk/view?usp=sharing" target='_blank'>
-            <PrimaryButton>Currículo completo</PrimaryButton>
+          <a href="https://drive.google.com/file/d/150a3thHn_Wh85EtxTm2GwzE1GS1TA5OA/view?usp=sharing" target='_blank'>
+            <PrimaryButton>Complete resume</PrimaryButton>
           </a>
         </TextAndButton>
       </ContainerData>

@@ -4,8 +4,8 @@ export const Footer = () => {
   return (
     <Container>
       <p>
-        Desenvolvido por 👉{" "}
-        <a href="https://www.linkedin.com/in/fumagallidv/" target="_blank">
+        Developed by 👉{" "}
+        <a href="https://www.linkedin.com/in/fumagallidv/?locale=en_US" target="_blank">
           Laura Fumagalli
         </a>
       </p>
