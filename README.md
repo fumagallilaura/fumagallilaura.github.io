@@ -2,7 +2,7 @@
 
 ## Access Link
 
-[👉 Portfolio](https://fumagallilaura.vercel.app/)
+[👉 Portfolio](https://fumagallilaura-github-el05jger0-fumagallilauralfr.vercel.app/)
 
 ## Goal
 
